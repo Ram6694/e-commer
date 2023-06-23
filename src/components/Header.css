@@ -1,0 +1,19 @@
+.men{
+    font-size: 13px;
+    color: #333;
+}
+.vl {
+    border-left: 1px solid rgb(0 0 0 / 20%);
+    height: 20px;
+    position: absolute;
+    left: 84%;
+  
+    top: 20px;
+  }
+
+.header2{
+    font-size: 17px;
+    font-weight: 400;
+    color: #0e0e0e;
+    text-transform: uppercase;
+}
