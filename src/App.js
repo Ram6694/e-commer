@@ -10,7 +10,7 @@ import { Redirect, Route, Switch } from 'react-router-dom';
  import Cart from './components/Cart';
 import Checkout from './components/Checkout';
 import Header from './components/Header';
-import Home from './components/Home';
+import Home from './components/Home/Home';
 import Footer from './components/Footer';
 import About from './components/About';
 import Product from './components/Product';

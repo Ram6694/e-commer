@@ -1,0 +1,41 @@
+.hover-zoom:hover img{
+    transform: scale(1.1);
+  }
+  
+
+  img {
+    cursor: pointer
+  }
+
+  @media (min-width: 320px) and (max-width: 740px) {
+    
+    /* .row{
+      margin-left: 0;
+    } */
+
+    #idea{
+      margin-left: 0;
+      margin-right: 0;
+      padding-left: 0
+
+    }
+
+    .carousel-item {
+      flex-direction: column;
+    }
+    
+    /* Example: Adjust the column width */
+    .col-2 {
+      width: 100%;
+    }
+    
+    /* Example: Modify the font size */
+    .title,
+    .text {
+      font-size: 14px;
+    }
+   
+    /* Example: Adjust other styles as needed */
+  }
+  
+  
